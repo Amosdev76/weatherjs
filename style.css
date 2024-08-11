@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     
     background-image: url('pexels-pixabay-531767.jpg') ;
-    background-size: cover;
+    background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
     height: 0;
